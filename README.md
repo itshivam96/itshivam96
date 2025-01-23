@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/126212511?v=4" alt="GitHub Banner" width="30%" border-radius=5px />
+  <img src="https://avatars.githubusercontent.com/u/126212511?v=4" alt="GitHub Banner" width="30%"/>
 </div>
 
 # 👋 Hi, I'm Shivam Kumar!
@@ -27,9 +27,9 @@ I love solving problems, analyzing data, and building interactive web applicatio
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivam-kumar&show_icons=true&theme=radical" alt="Shivam's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-kumar&theme=radical" alt="Shivam's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-kumar&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itshivam96&show_icons=true&theme=radical" alt="Shivam's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itshivam96&theme=radical" alt="Shivam's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itshivam96&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
