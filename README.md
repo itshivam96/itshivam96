@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/126212511?v=4" alt="GitHub Banner" width="30%"/>
+  <img src="[https://avatars.githubusercontent.com/u/126212511?v=4](https://media.licdn.com/dms/image/v2/D5616AQHhY7Prlh-7XQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736961673465?e=1743033600&v=beta&t=fH0hDBI0Wy4fTHtNTzY4gxoUNqXIWYMLpF9X5SM-0ew)" alt="GitHub Banner" width="30%"/>
 </div>
 
 # 👋 Hi, I'm Shivam Kumar!
