@@ -36,7 +36,7 @@ I love solving problems, analyzing data, and building interactive web applicatio
 
 ## 🚀 My Projects
 
-- **[Sangam Fest Website](#)**  
+- **[Sangam Fest Website](https://mdu-epapers.vercel.app/)**  
   A dynamic registration website for the DPG ITM Fest. Focused on UI/UX and responsiveness.  
   _Tech Stack: HTML, CSS, JavaScript, Hostinger_
 
@@ -44,7 +44,7 @@ I love solving problems, analyzing data, and building interactive web applicatio
   An interactive dashboard analyzing sales data.  
   _Tech Stack: Python, Tableau, Pandas_
 
-- **[Portfolio Website](#)**  
+- **[Portfolio Website](https://shivamk-eta.vercel.app/)**  
   A personal portfolio website to showcase my projects and skills.  
   _Tech Stack: HTML, CSS, JavaScript_
 
@@ -61,10 +61,10 @@ I love solving problems, analyzing data, and building interactive web applicatio
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/shivam-kumar">
+  <a href="https://www.linkedin.com/in/itshivam96">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/shivam-kumar">
+  <a href="https://github.com/itshivam96">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
