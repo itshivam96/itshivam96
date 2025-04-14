@@ -205,21 +205,8 @@
 <!-- 🏆 GitHub Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=itshivam96&theme=matrix&row=1&margin-w=15&margin-h=15" alt="Trophies" />
 
-<!-- ⏰ If using WakaTime -->
-<!-- Replace YOUR_USERNAME with your Wakatime username -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=tokyonight&layout=compact" /> -->
-
 <!-- 📊 Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=itshivam96&theme=react-dark&bg_color=0d1117&hide_border=true&line=00ff99&point=ffffff" alt="Contribution Graph" />
-
-<!-- 🧠 Code Time Breakdown -->
-<!-- Optional if using WakaTime -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=tokyonight&layout=compact" /> -->
-
-<!-- 🔄 Profile Views Counter -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=itshivam96&style=flat-square&color=00FF99" alt="Profile Views" />
-</p>
 
 </div>
 
@@ -251,12 +238,20 @@
 
 ## 🧬 CLI Snapshot
 
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Terminal+Access+Granted...;Loading+User+Profile..." alt="typing animation" />
+
+</div>
+
+```bash
 $ whoami
 👤 Shivam Kumar
 
 $ whatido
-💻 Data Analytics | 🌐 Web Dev | 🧠 ML Experiments
+💻 Data Analytics
+🌐 Web Developer
+🧠 Machine Learning Experiments
 
 $ motto
 ⚡ "Refine the noise, unleash the signal."
