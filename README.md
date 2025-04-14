@@ -18,7 +18,6 @@
 
 ## 👨‍💻 Cyber Profile
 
-```diff
 + B.Tech in CSE (Data Science) | Neo-Tokyo Institute of Technology
 ! Data Analyst & Web Developer | Corporate Samurai at Night City Corp
 # Aspiring Data Scientist | Building the Future with 1s and 0s
