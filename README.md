@@ -193,13 +193,36 @@
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Analytics & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itshivam96&theme=tokyonight&show_icons=true&hide_title=true&count_private=true&border_radius=10&bg_color=0d1117" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itshivam96&theme=tokyonight&border_radius=10&background=0d1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itshivam96&layout=compact&theme=tokyonight&border_radius=10" />
+
+<!-- ⭐ GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=itshivam96&theme=tokyonight&show_icons=true&hide_title=true&count_private=true&border_radius=10&bg_color=0d1117" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itshivam96&theme=tokyonight&border_radius=10&background=0d1117" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itshivam96&layout=compact&theme=tokyonight&border_radius=10&hide=html,css&langs_count=8" height="170" />
+
+<!-- 🏆 GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=itshivam96&theme=matrix&row=1&margin-w=15&margin-h=15" alt="Trophies" />
+
+<!-- ⏰ If using WakaTime -->
+<!-- Replace YOUR_USERNAME with your Wakatime username -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=tokyonight&layout=compact" /> -->
+
+<!-- 📊 Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itshivam96&theme=react-dark&bg_color=0d1117&hide_border=true&line=00ff99&point=ffffff" alt="Contribution Graph" />
+
+<!-- 🧠 Code Time Breakdown -->
+<!-- Optional if using WakaTime -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=tokyonight&layout=compact" /> -->
+
+<!-- 🔄 Profile Views Counter -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=itshivam96&style=flat-square&color=00FF99" alt="Profile Views" />
+</p>
+
 </div>
+
 
 ---
 
