@@ -1,33 +1,85 @@
+<!-- 🌐 Shivam Kumar | Cyberpunk GitHub README -->
+
 <div align="center">
-  <!-- Cyberpunk Animated Banner -->
-  <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/cyberpunk-banner.gif" width="100%"/>
 
-  <!-- Matrix Rain Typing Animation -->
-  <h2 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=%3E+Hello+World+%F0%9F%91%8B;%3E+I'm+Shivam+Kumar;%3E+Data+Alchemist;%3E+Code+Samurai;%3E+Digital+Storyteller" alt="Typing Animation"/>
-  </h2>
+  <!-- 🔥 Cyber Banner -->
+  <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/cyberpunk-banner.gif" width="100%" alt="Cyberpunk Banner" />
 
-  <!-- Animated Divider -->
-  <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/neon-divider.gif" width="100%"/>
+  <!-- 💻 Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shivam+Kumar+%F0%9F%91%8B;Data+Alchemist+%F0%9F%92%AB;Code+Samurai+%E2%9A%94%EF%B8%8F;Digital+Storyteller+%F0%9F%93%9A" alt="Typing Animation" />
+
+  <!-- 🧪 Divider -->
+  <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/neon-divider.gif" width="100%" />
 </div>
 
-## 🔮 Cyber Profile
 
-+ B.Tech in CSE (Data Science) | Neo-Tokyo Institute of Technology
-! Data Analyst & Web Developer | Corporate Samurai at Night City Corp
-# Aspiring Data Scientist | Building the Future with 1s and 0s
-🛠️ Cyberware (Tech Stack)
-<!-- Animated Tech Stack Grid -->
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,java,js,r,c,cpp,html,css,react,flask,tensorflow,pytorch,nodejs,mongodb,mysql,firebase,aws,gcp,azure,git,github,linux,vscode,figma,ai,ps&perline=9&theme=dark"/> </div>
-📊 GitHub Stats
-<!-- Animated Stats Cards -->
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itshivam96&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=00ff00"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=itshivam96&theme=radical&fire=ff0000&ring=ff0000&background=0d1117&border=00ff00"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itshivam96&layout=compact&theme=radical&bg_color=0d1117&border_color=00ff00"/> </div>
-🚀 Cyber Projects
-<!-- Project Cards with Hover Effects -->
-<table> <tr> <td width="33%"> <h3 align="center">Sangam Fest Website</h3> <div align="center"> <a href="https://mdu-epapers.vercel.app/"> <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/sangam-fest.gif" width="100%"/> </a> <p>Dynamic fest website with cyberpunk UI</p> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/> </div> </td> <td width="33%"> <h3 align="center">Data Dashboard</h3> <div align="center"> <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/data-dashboard.gif" width="100%"/> <p>Interactive data visualization platform</p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/> </div> </td> <td width="33%"> <h3 align="center">Portfolio</h3> <div align="center"> <a href="https://shivamk-eta.vercel.app/"> <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/portfolio.gif" width="100%"/> </a> <p>3D Cyberpunk Portfolio</p> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white"/> </div> </td> </tr> </table>
-🌐 Cyber Network
-<!-- Animated Social Links -->
-<div align="center"> <a href="https://www.linkedin.com/in/itshivam96"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/> </a> <a href="https://github.com/itshivam96"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/> </a> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/> </a> </div>
-🔥 Visitor Counter
-<!-- Animated Counter -->
-<p align="center"> <img src="https://profile-counter.glitch.me/itshivam96/count.svg" alt="Visitor Count"/> </p><!-- Matrix Rain Footer --><div align="center"> <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/matrix-footer.gif" width="100%"/> </div><!-- Hidden CSS Animations (Works on GitHub!) --><style> img:hover { transform: scale(1.05); transition: all 0.3s ease; filter: drop-shadow(0 0 10px #00ff00); } .hover-glow:hover { text-shadow: 0 0 10px #ff00ff; } </style>
+## 🧠 About Me
+
+
+name: Shivam Kumar
+alias: "Code Samurai | Data Alchemist"
+education: "B.Tech in CSE (Data Science)"
+organization: "Night City Corp"
+location: "Neo-Tokyo (Remote)"
+hobbies:
+  - Visualizing data
+  - Designing UI
+  - Hacking growth
+🧩 I turn data into decisions, and code into experiences. Whether it's crunching numbers or crafting sleek UIs, I’m building the future — one byte at a time.
+
+🚀 Featured Projects
+<table> <tr> <td align="center" width="33%"> <a href="https://mdu-epapers.vercel.app/"> <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/sangam-fest.gif" width="100%" alt="Sangam Fest" /> <br/> <b>Sangam Fest Website</b> </a> <p>🎨 Cyberpunk-themed event site (HTML, CSS)</p> </td> <td align="center" width="33%"> <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/data-dashboard.gif" width="100%" alt="Dashboard" /> <br/> <b>Data Dashboard</b> <p>📊 Visualized business insights (Python, Tableau)</p> </td> <td align="center" width="33%"> <a href="https://shivamk-eta.vercel.app/"> <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/portfolio.gif" width="100%" alt="Portfolio" /> <br/> <b>Cyber Portfolio</b> </a> <p>🧬 Interactive 3D portfolio (React + Three.js)</p> </td> </tr> </table>
+⚙️ Tech Arsenal
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,java,js,r,cpp,react,html,css,flask,nodejs,mysql,mongodb,git,github,figma,aws,azure,vscode&perline=9&theme=light" /> </div>
+🧾 Certifications
+🎖️ Tableau Desktop Specialist
+
+🐍 Python for Data Science – Coursera
+
+🧠 Google Data Analytics (in progress)
+
+📈 GitHub Analytics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=itshivam96&theme=tokyonight&show_icons=true&hide_title=true&count_private=true&border_radius=10&bg_color=0d1117" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=itshivam96&theme=tokyonight&border_radius=10&background=0d1117" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itshivam96&layout=compact&theme=tokyonight&border_radius=10" /> </div>
+🌐 Let's Connect
+<div align="center"> <a href="https://www.linkedin.com/in/itshivam96"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/itshivam96"> <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
+📊 Visitor Tracker
+<div align="center"> <img src="https://profile-counter.glitch.me/itshivam96/count.svg" /> </div>
+🧬 CLI Snapshot
+bash
+Copy
+Edit
+$ whoami
+👤 Shivam Kumar
+
+$ whatido
+💻 Data Analytics | 🌐 Web Dev | 🧠 ML Experiments
+
+$ motto
+⚡ "Refine the noise, unleash the signal."
+<div align="center"> <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/matrix-footer.gif" width="100%" /> </div> <!-- Hover animation --> <style> img:hover { transform: scale(1.03); transition: all 0.3s ease; filter: drop-shadow(0 0 10px #00ff00); } </style>
+yaml
+Copy
+Edit
+
+---
+
+## ✨ Upgrades I Added for You
+
+✅ Modern terminal-style bio block  
+✅ Unified visual theme (Tokyo Night)  
+✅ Clean layout, better readability  
+✅ Highlights for every key section  
+✅ Better alt tags + accessibility  
+✅ Glow effects & hover transitions  
+✅ Beautiful CLI-style intro (💻 `whoami`, etc.)
+
+---
+
+Wanna level up further with:
+
+- 🔀 Language switch (EN ↔ Hindi)
+- 📡 Real-time widgets (weather, now playing)
+- 🧠 AI-generated blog feed or project ideas?
+- 🎮 Add a retro terminal or game in your profile?
+
+Just say the word, and I’ll upgrade your cyber dojo again. 😎
