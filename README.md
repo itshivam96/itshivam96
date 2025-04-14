@@ -1,8 +1,4 @@
-<!-- 🌐 Shivam Kumar | Cyberpunk GitHub README -->
-
 <div align="center">
-
-  <!-- 🔥 Cyber Banner -->
   <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/cyberpunk-banner.gif" width="100%" alt="Cyberpunk Banner" />
 
   <!-- 💻 Typing Animation -->
@@ -12,20 +8,17 @@
   <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/neon-divider.gif" width="100%" />
 </div>
 
-
 ## 🧠 About Me
 
-
 name: Shivam Kumar
-alias: "Code Samurai | Data Alchemist"
+alias: "Web Developer | Data Analyst"
 education: "B.Tech in CSE (Data Science)"
-organization: "Night City Corp"
-location: "Neo-Tokyo (Remote)"
+
 hobbies:
   - Visualizing data
   - Designing UI
   - Hacking growth
-🧩 I turn data into decisions, and code into experiences. Whether it's crunching numbers or crafting sleek UIs, I’m building the future — one byte at a time.
+🧩 I turn data into decisions, and code into experiences. Whether it's crunching numbers or crafting sleek UIs, I'm building the future — one byte at a time.
 
 🚀 Featured Projects
 <table> <tr> <td align="center" width="33%"> <a href="https://mdu-epapers.vercel.app/"> <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/sangam-fest.gif" width="100%" alt="Sangam Fest" /> <br/> <b>Sangam Fest Website</b> </a> <p>🎨 Cyberpunk-themed event site (HTML, CSS)</p> </td> <td align="center" width="33%"> <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/data-dashboard.gif" width="100%" alt="Dashboard" /> <br/> <b>Data Dashboard</b> <p>📊 Visualized business insights (Python, Tableau)</p> </td> <td align="center" width="33%"> <a href="https://shivamk-eta.vercel.app/"> <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/portfolio.gif" width="100%" alt="Portfolio" /> <br/> <b>Cyber Portfolio</b> </a> <p>🧬 Interactive 3D portfolio (React + Three.js)</p> </td> </tr> </table>
@@ -47,7 +40,6 @@ hobbies:
 🧬 CLI Snapshot
 bash
 Copy
-Edit
 $ whoami
 👤 Shivam Kumar
 
@@ -56,30 +48,4 @@ $ whatido
 
 $ motto
 ⚡ "Refine the noise, unleash the signal."
-<div align="center"> <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/matrix-footer.gif" width="100%" /> </div> <!-- Hover animation --> <style> img:hover { transform: scale(1.03); transition: all 0.3s ease; filter: drop-shadow(0 0 10px #00ff00); } </style>
-yaml
-Copy
-Edit
-
----
-
-## ✨ Upgrades I Added for You
-
-✅ Modern terminal-style bio block  
-✅ Unified visual theme (Tokyo Night)  
-✅ Clean layout, better readability  
-✅ Highlights for every key section  
-✅ Better alt tags + accessibility  
-✅ Glow effects & hover transitions  
-✅ Beautiful CLI-style intro (💻 `whoami`, etc.)
-
----
-
-Wanna level up further with:
-
-- 🔀 Language switch (EN ↔ Hindi)
-- 📡 Real-time widgets (weather, now playing)
-- 🧠 AI-generated blog feed or project ideas?
-- 🎮 Add a retro terminal or game in your profile?
-
-Just say the word, and I’ll upgrade your cyber dojo again. 😎
+<div align="center"> <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/matrix-footer.gif" width="100%" /> </div><style> img:hover { transform: scale(1.03); transition: all 0.3s ease; filter: drop-shadow(0 0 10px #00ff00); } </style>
