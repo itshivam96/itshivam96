@@ -1,101 +1,71 @@
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQHhY7Prlh-7XQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736961673465?e=1743033600&v=beta&t=fH0hDBI0Wy4fTHtNTzY4gxoUNqXIWYMLpF9X5SM-0ew" alt="GitHub Banner" width="100%"/>
-</div>
-
-# 👋 Hi, I'm Shivam Kumar!
-
-🎓 **B.Tech in CSE (Data Science)** | 💼 **Data Analyst & Web Developer** | 🌟 **Aspiring Data Scientist**
-
-I’m passionate about analyzing data, solving problems, and building seamless digital experiences. From turning raw data into actionable insights to creating engaging, responsive web applications, I bring ideas to life with precision and creativity. 🚀
-
----
-
-## 🛠️ Tech Stack
+<!-- CYBERPUNK GITHUB README - SHIVAM KUMAR -->
 
 <div align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
-  
-  <!-- Data Analysis -->
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
-  <!-- Web Development -->
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-1E90FF?style=for-the-badge&logo=api&logoColor=white" />
+  <!-- 🔥 Cyberpunk Animated Banner -->
+  <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/cyberpunk-banner.gif" width="100%"/>
 
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <!-- 💻 Matrix Rain Typing Animation -->
+  <h2>
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=%3E+Hello+World+%F0%9F%91%8B;%3E+I'm+Shivam+Kumar;%3E+Data+Alchemist;%3E+Code+Samurai;%3E+Digital+Storyteller" alt="Typing Animation"/>
+  </h2>
 
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
+  <!-- ⚡ Neon Divider -->
+  <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/neon-divider.gif" width="100%"/>
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 👨‍💻 Cyber Profile
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itshivam96&show_icons=true&theme=radical" alt="Shivam's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itshivam96&theme=radical" alt="Shivam's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itshivam96&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+```diff
++ B.Tech in CSE (Data Science) | Neo-Tokyo Institute of Technology
+! Data Analyst & Web Developer | Corporate Samurai at Night City Corp
+# Aspiring Data Scientist | Building the Future with 1s and 0s
+🛠️ Cyberware (Tech Stack)
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,java,js,r,c,cpp,html,css,react,flask,tensorflow,pytorch,nodejs,mongodb,mysql,firebase,aws,gcp,azure,git,github,linux,vscode,figma,ai,ps&perline=9&theme=dark"/> </div>
+📊 GitHub Stats
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itshivam96&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=00ff00"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=itshivam96&theme=radical&fire=ff0000&ring=ff0000&background=0d1117&border=00ff00"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itshivam96&layout=compact&theme=radical&bg_color=0d1117&border_color=00ff00"/> </div>
+🚀 Cyber Projects
+<table> <tr> <td width="33%"> <h3 align="center">Sangam Fest Website</h3> <div align="center"> <a href="https://mdu-epapers.vercel.app/"> <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/sangam-fest.gif" width="100%"/> </a> <p>Dynamic fest website with cyberpunk UI</p> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/> </div> </td>
+php-template
+Copy
+Edit
+<td width="33%">
+  <h3 align="center">Data Dashboard</h3>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/data-dashboard.gif" width="100%"/>
+    <p>Interactive data visualization platform</p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+  </div>
+</td>
 
----
+<td width="33%">
+  <h3 align="center">Portfolio</h3>
+  <div align="center">
+    <a href="https://shivamk-eta.vercel.app/">
+      <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/portfolio.gif" width="100%"/>
+    </a>
+    <p>3D Cyberpunk Portfolio</p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white"/>
+  </div>
+</td>
+</tr> </table>
+📜 Certifications
+🏆 Tableau Desktop Specialist
 
-## 🚀 My Projects
+📘 Python for Data Science – Coursera
 
-- **[Sangam Fest Website](https://mdu-epapers.vercel.app/)**  
-  A dynamic registration website for the DPG ITM Fest. Focused on UI/UX and responsiveness.  
-  _Tech Stack: HTML, CSS, JavaScript, Hostinger_
+⏳ Google Data Analytics Certificate (In Progress)
 
-- **[Data Visualization Dashboard](#)**  
-  An interactive dashboard analyzing sales data.  
-  _Tech Stack: Python, Tableau, Pandas_
+🌐 Cyber Network
+<div align="center"> <a href="https://www.linkedin.com/in/itshivam96"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/itshivam96"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
+🔥 Visitor Counter
+<div align="center"> <img src="https://profile-counter.glitch.me/itshivam96/count.svg" alt="Visitor Count"/> </div>
+<div align="center"> <!-- Matrix Rain Footer --> <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/matrix-footer.gif" width="100%"/> </div>
+🌟 Fun Fact
+“Data is the new oil, but it’s useless if unrefined.”
 
-- **[Portfolio Website](https://shivamk-eta.vercel.app/)**  
-  A personal portfolio website to showcase my projects and skills.  
-  _Tech Stack: HTML, CSS, JavaScript_
-
----
-
-## 📜 Certifications
-
-- **Google Data Analytics Certificate** (In Progress)  
-- **Tableau Desktop Specialist**  
-- **Python for Data Science** - Coursera  
-
----
-
-## 🌐 Connect with Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/itshivam96">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/itshivam96">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
----
-
-## 🌟 Fun Fact
-
-> "Data is the new oil, but it’s useless if unrefined!"
+<!-- 💫 GitHub Banner --> <div align="center"> <img src="https://media.licdn.com/dms/image/v2/D5616AQHhY7Prlh-7XQ/profile-displaybackgroundimage-shrink_350_1400/0/1736961673465?e=1743033600&v=beta&t=fH0hDBI0Wy4fTHtNTzY4gxoUNqXIWYMLpF9X5SM-0ew" width="100%" alt="GitHub Banner"/> </div> <!-- 🔧 Optional Hover Animation for Images --> <style> img:hover { transform: scale(1.05); transition: all 0.3s ease; filter: drop-shadow(0 0 10px #00ff00); } </style>
