@@ -10,15 +10,69 @@
 
 ## 🧠 About Me
 
-name: Shivam Kumar
-alias: "Web Developer | Data Analyst"
-education: "B.Tech in CSE (Data Science)"
+<div align="center">
+  <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="150" height="150" />
+</div>
 
-hobbies:
-  - Visualizing data
-  - Designing UI
-  - Hacking growth
-🧩 I turn data into decisions, and code into experiences. Whether it's crunching numbers or crafting sleek UIs, I'm building the future — one byte at a time.
+<h2 align="center" style="color:#00C6FF">Hey there! I'm <span style="color:#FF5F6D">Shivam Kumar</span> 👋</h2>
+
+<p align="center">
+  <b>AKA:</b> <span style="color:#00FA9A"><strong>"Web Developer | Data Analyst"</strong></span><br>
+  🎓 <em>B.Tech in CSE (Data Science)</em>
+</p>
+
+---
+
+### 🧩 What I Do
+
+- 📊 <strong>Data Whisperer</strong>: Turning raw data into powerful decisions.
+- 🎨 <strong>UI Architect</strong>: Crafting sleek, user-centric interfaces.
+- 🚀 <strong>Growth Hacker</strong>: Finding clever shortcuts to scale ideas.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" />
+</div>
+
+---
+
+### 💡 Hobbies & Passions
+
+| 🎯 Hobby           | 💬 Description                                   |
+|-------------------|--------------------------------------------------|
+| 📈 Data Viz        | Bringing stories to life with charts & graphs   |
+| 🧑‍🎨 UI Designing   | Crafting smooth and snappy web interfaces       |
+| 🧠 Growth Hacking  | Strategizing viral features and optimization    |
+
+---
+
+### 🚀 My Motto
+
+> _"I turn data into decisions, and code into experiences. Whether it's crunching numbers or crafting sleek UIs, I'm building the future — one byte at a time."_ ✨
+
+---
+
+### 🔥 Tech Stack & Tools
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black)
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</div>
+
+<p align="center" style="color: #888;">
+  <em>Let's build the future together 🌐💡</em>
+</p>
+
 
 🚀 Featured Projects
 <table> <tr> <td align="center" width="33%"> <a href="https://mdu-epapers.vercel.app/"> <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/sangam-fest.gif" width="100%" alt="Sangam Fest" /> <br/> <b>Sangam Fest Website</b> </a> <p>🎨 Cyberpunk-themed event site (HTML, CSS)</p> </td> <td align="center" width="33%"> <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/data-dashboard.gif" width="100%" alt="Dashboard" /> <br/> <b>Data Dashboard</b> <p>📊 Visualized business insights (Python, Tableau)</p> </td> <td align="center" width="33%"> <a href="https://shivamk-eta.vercel.app/"> <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/portfolio.gif" width="100%" alt="Portfolio" /> <br/> <b>Cyber Portfolio</b> </a> <p>🧬 Interactive 3D portfolio (React + Three.js)</p> </td> </tr> </table>
