@@ -78,7 +78,6 @@
 
 <table>
   <tr>
-
     <td align="center" width="33%">
       <a href="https://mdu-epapers.vercel.app/" target="_blank">
         <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/sangam-fest.gif" width="100%" alt="Sangam Fest" />
@@ -88,14 +87,14 @@
       <p>🎨 Cyberpunk event site <br/><code>HTML</code> • <code>CSS</code></p>
     </td>
 
-    <td align="center" width="33%">
+  <td align="center" width="33%">
       <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/data-dashboard.gif" width="100%" alt="Dashboard" />
       <br/>
       <b>Data Dashboard</b>
       <p>📊 Business insights <br/><code>Python</code> • <code>Tableau</code></p>
     </td>
 
-    <td align="center" width="33%">
+   <td align="center" width="33%">
       <a href="https://shivamk-eta.vercel.app/" target="_blank">
         <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/portfolio.gif" width="100%" alt="Portfolio" />
         <br/>
@@ -157,11 +156,10 @@
   <img src="https://profile-counter.glitch.me/itshivam96/count.svg" />
 </div>
 
----
 
 ## 🧬 CLI Snapshot
 
-```bash
+
 $ whoami
 👤 Shivam Kumar
 
