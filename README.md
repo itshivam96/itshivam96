@@ -75,7 +75,33 @@
 
 
 🚀 Featured Projects
-<table> <tr> <td align="center" width="33%"> <a href="https://mdu-epapers.vercel.app/"> <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/sangam-fest.gif" width="100%" alt="Sangam Fest" /> <br/> <b>Sangam Fest Website</b> </a> <p>🎨 Cyberpunk-themed event site (HTML, CSS)</p> </td> <td align="center" width="33%"> <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/data-dashboard.gif" width="100%" alt="Dashboard" /> <br/> <b>Data Dashboard</b> <p>📊 Visualized business insights (Python, Tableau)</p> </td> <td align="center" width="33%"> <a href="https://shivamk-eta.vercel.app/"> <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/portfolio.gif" width="100%" alt="Portfolio" /> <br/> <b>Cyber Portfolio</b> </a> <p>🧬 Interactive 3D portfolio (React + Three.js)</p> </td> </tr> </table>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://mdu-epapers.vercel.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/sangam-fest.gif" width="100%" alt="Sangam Fest" />
+        <br/>
+        <b>Sangam Fest Website</b>
+      </a>
+      <p>🎨 Cyberpunk-themed event site<br/> <code>HTML</code> • <code>CSS</code></p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/data-dashboard.gif" width="100%" alt="Dashboard" />
+      <br/>
+      <b>Data Dashboard</b>
+      <p>📊 Visualized business insights<br/> <code>Python</code> • <code>Tableau</code></p>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://shivamk-eta.vercel.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/portfolio.gif" width="100%" alt="Portfolio" />
+        <br/>
+        <b>Cyber Portfolio</b>
+      </a>
+      <p>🧬 Interactive 3D portfolio<br/> <code>React</code> • <code>Three.js</code></p>
+    </td>
+
+  </tr>
+</table>
 ⚙️ Tech Arsenal
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,java,js,r,cpp,react,html,css,flask,nodejs,mysql,mongodb,git,github,figma,aws,azure,vscode&perline=9&theme=light" /> </div>
 🧾 Certifications
