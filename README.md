@@ -49,7 +49,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 **GitHub Analytics** <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="50">
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itshivam96&show_icons=true&theme=tokyonight" height="180px" />
