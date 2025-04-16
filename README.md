@@ -2,7 +2,7 @@
   <img src="https://media.licdn.com/dms/image/v2/D5616AQHhY7Prlh-7XQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736961673465?e=1750291200&v=beta&t=9tQZWp17DYaZtK9VRI3wRgyGE47Xi8BBb_b-JZSmnCA" width="100%" alt="Cyberpunk Banner" boader-radius="10%" />
   
   <!-- 💻 Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shivam+Kumar+%F0%9F%91%8B;Data+Alchemist+%F0%9F%92%AB;Code+Samurai+%E2%9A%94%EF%B8%8F;Digital+Storyteller+%F0%9F%93%9A" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=50&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shivam+Kumar+%F0%9F%91%8B;Data+Alchemist+%F0%9F%92%AB;Code+Samurai+%E2%9A%94%EF%B8%8F;Digital+Storyteller+%F0%9F%93%9A" alt="Typing Animation" />
 
   <!-- Divider -->
   <img src="https://64.media.tumblr.com/497d2ed0765a8244cf4a054e89c3971a/4e6e16cefe36a424-cd/s1280x1920/06543e4bf24935ae14f9b057e458babea9c94e94.gifv" width="100%" />
