@@ -1,25 +1,75 @@
-<div align="center"> <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/cyberpunk-banner.gif" width="100%" alt="Cyberpunk Banner"/> <!-- 3D Matrix Typing Effect --> <h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Matrix+Code&weight=600&size=30&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&height=70&lines=%F0%9F%91%8B+HELLO+WORLD;%F0%9F%92%BB+DATA+ALCHEMIST;%F0%9F%93%8A+WEB+SORCERER;%F0%9F%94%A5+CODE+SHINOBI" alt="Matrix Typing Effect" /> </h1> <!-- Cyberpunk Social Badges --> <div align="center"> <a href="https://linkedin.com/in/itshivam96"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=121212&color=00FF41" alt="LinkedIn"/> </a> <a href="https://shivamk.dev"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=121212&color=00FF41" alt="Portfolio"/> </a> <a href="mailto:shivam@example.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=121212&color=00FF41" alt="Email"/> </a> <a href="https://leetcode.com/itshivam96"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=121212&color=00FF41" alt="LeetCode"/> </a> </div> </div>
-🔮 Digital Persona
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Shivam+Yadav!;Web+Developer+%2B+Data+Analyst;Passionate+about+Tech+%26+Data!" />
+</h1>
 
-class DigitalShivam:
-    def __init__(self):
-        self.aliases = ["Data Alchemist", "Code Shinobi", "Cyber Nomad"]
-        self.skills = {
-            "languages": ["Python", "JavaScript", "R", "SQL"],
-            "data": ["Pandas", "NumPy", "Tableau", "PowerBI"],
-            "web": ["React", "Flask", "Node.js", "Three.js"],
-            "cloud": ["AWS", "Azure", "Firebase"]
-        }
-        self.motto = "Turning data into decisions and code into experiences"
-        
-    def greet(self):
-        print("01001000 01101001 00100001")  # "Hi!" in binary
-🛠️ Cyber Tech Stack
-<div align="center"> <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/tech-matrix.gif" width="80%"/> <!-- Animated Skill Bars --> <table> <tr> <td><img src="https://progress-bar.dev/95/?title=Python&scale=10&width=200&color=00ff41" alt="Python"></td> <td><img src="https://progress-bar.dev/85/?title=JavaScript&scale=10&width=200&color=00ff41" alt="JS"></td> </tr> <tr> <td><img src="https://progress-bar.dev/90/?title=Data+Analysis&scale=10&width=200&color=00ff41" alt="Data"></td> <td><img src="https://progress-bar.dev/80/?title=React&scale=10&width=200&color=00ff41" alt="React"></td> </tr> </table> </div>
-🎮 Featured Cyber Projects
-<div align="center"> <!-- Holographic Project Cards --> <table> <tr> <td width="50%"> <h3 align="center">🔮 Neural Nexus</h3> <a href="https://github.com/itshivam96/neural-nexus"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=itshivam96&repo=neural-nexus&theme=dark&bg_color=121212&title_color=00FF41&hide_border=true"/> </a> <p>AI-powered data visualization dashboard</p> </td> <td width="50%"> <h3 align="center">💾 CyberDB</h3> <a href="https://github.com/itshivam96/cyberdb"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=itshivam96&repo=cyberdb&theme=dark&bg_color=121212&title_color=00FF41&hide_border=true"/> </a> <p>Blockchain-based data storage</p> </td> </tr> <tr> <td width="50%"> <h3 align="center">🌌 Quantum Analytics</h3> <a href="https://github.com/itshivam96/quantum-analytics"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=itshivam96&repo=quantum-analytics&theme=dark&bg_color=121212&title_color=00FF41&hide_border=true"/> </a> <p>ML-powered business intelligence</p> </td> <td width="50%"> <h3 align="center">🖥️ Cyber Terminal</h3> <a href="https://github.com/itshivam96/cyber-terminal"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=itshivam96&repo=cyber-terminal&theme=dark&bg_color=121212&title_color=00FF41&hide_border=true"/> </a> <p>3D interactive portfolio</p> </td> </tr> </table> </div>
-📊 Cyber Stats
-<div align="center"> <!-- Animated GitHub Stats --> <img src="https://github-readme-stats.vercel.app/api?username=itshivam96&show_icons=true&theme=dark&bg_color=121212&title_color=00FF41&text_color=ffffff&icon_color=00FF41&hide_border=true" width="45%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=itshivam96&theme=dark&background=121212&ring=00FF41&fire=00FF41&currStreakNum=ffffff&currStreakLabel=00FF41&hide_border=true" width="45%"/> <!-- 3D Language Contribution --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itshivam96&layout=compact&theme=dark&bg_color=121212&title_color=00FF41&text_color=ffffff&hide_border=true" width="45%"/> <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/activity-graph.gif" width="45%"/> </div>
-🌐 Cyber Network
-<div align="center"> <!-- Glowing Social Icons --> <a href="https://linkedin.com/in/itshivam96"> <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/linkedin.gif" width="50"/> </a> <a href="https://github.com/itshivam96"> <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/github.gif" width="50"/> </a> <a href="https://twitter.com/cybershivam"> <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/twitter.gif" width="50"/> </a> <a href="https://leetcode.com/itshivam96"> <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/leetcode.gif" width="50"/> </a> </div>
-<div align="center"> <!-- Cyber Visitor Counter --> <img src="https://komarev.com/ghpvc/?username=itshivam96&label=CYBER+VISITORS&color=00FF41&style=flat-square"/> <!-- Digital Rain Effect --> <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/digital-rain.gif" width="100%"/> </div>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+</p>
+
+---
+
+## 💫 About Me:
+- 👨‍💻 I am a passionate **Web Developer** and **Data Analyst**
+- 💡 I love building responsive web apps and analyzing data for impactful decisions.
+- 🌱 Currently learning **Next.js** and **Advanced Machine Learning**
+- 📫 Reach me at: **Shivamji9953@gmail.com**
+
+---
+
+## 🛠️ Tech Stack:
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+---
+
+## 🚀 Featured Projects:
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🔐 **Question Paper Management** | Full responsive with unique IDs | `JavaScript, HTML, CSS` |
+| 🎬 **Movie Recommendation System** | Collaborative + Content-based filtering | `Python` [View](https://github.com/itshivam96) |
+| 🎉 **College Annual Fest Website** | 1,000+ user registrations managed | `TailwindCSS, HTML, JS` |
+| 🛍 **E-Commerce Product Analysis** | Price comparison, sentiment, web scraping | `MERN, Python` |
+| 🌍 **Real-Time AQI Dashboard** | Integrated APIs for 28 states | `MERN, Power BI` |
+| 🎮 **GameXplorer** | Multiplayer online games | `Python, JS, HTML, CSS` [View](https://github.com/itshivam96) |
+
+---
+
+## 📜 Certifications:
+- 🧭 Introduction to Career Skills in Data Analytics (LinkedIn)
+- 🌀 Agile Fundamentals Certification (Udemy)
+- 📊 Data Analytics A-Z with Python (Udemy)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itshivam96&show_icons=true&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=itshivam96&theme=tokyonight" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=itshivam96&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🔗 Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-itshivam96-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/itshivam96)
+[![GitHub](https://img.shields.io/badge/GitHub-itshivam96-black?style=for-the-badge&logo=github)](https://github.com/itshivam96)
+[![Gmail](https://img.shields.io/badge/Gmail-Shivamji9953@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:Shivamji9953@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="60%"/>
+</p>
