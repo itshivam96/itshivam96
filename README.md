@@ -11,7 +11,7 @@
 ## 🧠 **About Me** <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50" />
 
 
-<h2 align="center" style="color:#00C6FF">Hey there! I'm <span style="color:#FF5F6D">Shivam Kumar</span> 👋</h2>
+<h2 align="center" style="color:#00C6FF">I'm <span style="color💙">Shivam Kumar</span> 👋</h2>
 
 <p align="center">
   <b>Alias:</b> <span><strong>"Web Developer | Data Analyst"</strong></span><br>
