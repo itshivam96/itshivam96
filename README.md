@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Shivam+Yadav!;Web+Developer+%2B+Data+Analyst;Crafting+Tech+%26+Data+Solutions!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Shivam+Kumar!;Web+Developer+%2B+Data+Analyst;Crafting+Tech+%26+Data+Solutions!" />
 </h1>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 ---
 
-## 🚀 Featured Projects (Animated)
+## 🚀 Featured Projects <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHN5OHV5eGdjcmI2YWN2dXYxbndhcGFieW9qZXpldjlvYzFndzgxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ulREDgbFZrh8nYLGmB/giphy.gif" width="50">
 
 <div align="center">
 
