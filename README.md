@@ -102,14 +102,45 @@
 
 ---
 
-## 🔗 Connect with Me:
+## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-itshivam96-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/itshivam96)
-[![GitHub](https://img.shields.io/badge/GitHub-itshivam96-black?style=for-the-badge&logo=github)](https://github.com/itshivam96)
-[![Gmail](https://img.shields.io/badge/Gmail-Shivamji9953@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:Shivamji9953@gmail.com)
+<div align="center">
+  <a href="https://www.linkedin.com/in/itshivam96" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/itshivam96" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="60%"/>
-</p>
+## 📊 Visitor Tracker
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/itshivam96/count.svg" />
+</div>
+
+
+## 🧬 CLI Snapshot
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Terminal+Access+Granted...;Loading+User+Profile..." alt="typing animation" />
+
+</div>
+
+```bash
+$ whoami
+👤 Shivam Kumar
+
+$ whatido
+💻 Data Analytics
+🌐 Web Developer
+🧠 Machine Learning Experiments
+
+$ motto
+⚡ "Refine the noise, unleash the signal."
