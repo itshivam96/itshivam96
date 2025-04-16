@@ -44,9 +44,9 @@
 ---
 
 
-### ⚙️ My Tech Stack & Tools
+## ⚙️ My Tech Stack & Tools
 
-#### Full Stack Development
+### Full Stack Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -58,7 +58,7 @@
 ![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 
 
-#### Databases & Cloud
+### Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -68,7 +68,7 @@
 ![Google Cloud](https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%23007FFF.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-#### Data Science & Analytics
+### Data Science & Analytics
 ![Python](https://img.shields.io/badge/python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -85,14 +85,14 @@
 ![Google Data Studio](https://img.shields.io/badge/google%20data%20studio-%23F2C811.svg?style=for-the-badge&logo=google&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/apache%20spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
 
-#### Machine Learning & Deep Learning
+### Machine Learning & Deep Learning
 ![MLflow](https://img.shields.io/badge/mlflow-%23F36F6F.svg?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Scipy](https://img.shields.io/badge/scipy-%230C55B1.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23EE4C2C.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/huggingface-%23EE4C2C.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-%2300A9A7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
-#### DevOps & Tools
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -101,13 +101,13 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 
-#### IDEs & Tools
+### IDEs & Tools
 ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-%230A0B0D.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime%20text-%23FF9800.svg?style=for-the-badge&logo=sublime-text&logoColor=white)
 
-#### Other Tools
+### Other Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
@@ -131,7 +131,7 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://mdu-epapers.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/sangam-fest.gif" width="100%" alt="Sangam Fest" />
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVvN29lMXF0OG53OGZqMWUwMjZ6bmh1N2kzbzFpcmV1am5nOTlmbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/l0MYGlG4YLB51v0bu/giphy.gif" width="100%" alt="Sangam Fest" />
         <br/>
         <b>Sangam Fest Website</b>
       </a>
@@ -139,7 +139,7 @@
     </td>
 
   <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/data-dashboard.gif" width="100%" alt="Dashboard" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemsydDZndnUzZmp6dzVybWI0ejhvY2d3eGJiNXNsb3h2M3VkbjI0bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gRYTjQAs04Pfydymgc/giphy.gif" width="100%" alt="Dashboard" />
       <br/>
       <b>Data Dashboard</b>
       <p>📊 Business insights <br/><code>Python</code> • <code>Tableau</code></p>
@@ -147,7 +147,7 @@
 
    <td align="center" width="33%">
       <a href="https://shivamk-eta.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/itshivam96/itshivam96/main/assets/portfolio.gif" width="100%" alt="Portfolio" />
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzliMjJmc3U1cmo4Z2t6NWc1MGNsOWVhMTcwaTdqZmVkNzZibzltZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/FWyLGar0fQADQeKWYc/giphy.gif" width="100%" alt="Portfolio" />
         <br/>
         <b>Cyber Portfolio</b>
       </a>
@@ -195,7 +195,7 @@
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 **Let's Connect** <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXY0NjFheGU5NjN5M2YxemZrb3JuMXYwanFzaDUxNmo0bTVreDBjNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JEZ3wy3IUQR8s/giphy.gif" width="50">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/itshivam96" target="_blank">
