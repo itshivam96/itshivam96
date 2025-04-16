@@ -8,11 +8,8 @@
   <img src="https://64.media.tumblr.com/497d2ed0765a8244cf4a054e89c3971a/4e6e16cefe36a424-cd/s1280x1920/06543e4bf24935ae14f9b057e458babea9c94e94.gifv" width="100%" />
 </div>
 
-## 🧠 About Me
+## 🧠 **About Me** <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50" />
 
-<div align="center">
-  <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="150" />
-</div>
 
 <h2 align="center" style="color:#00C6FF">Hey there! I'm <span style="color:#FF5F6D">Shivam Kumar</span> 👋</h2>
 
@@ -23,15 +20,11 @@
 
 ---
 
-### 🧩 What I Do
+## 🧩 **What I Do** <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50" />
 
 - 📊 **Data Whisperer** – Turning raw data into powerful decisions  
 - 🎨 **UI Architect** – Crafting sleek, user-first interfaces  
 - 🚀 **Growth Hacker** – Finding shortcuts to scale smarter
-
-<div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" />
-</div>
 
 ---
 
