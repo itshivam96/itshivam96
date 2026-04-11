@@ -34,42 +34,7 @@
 
 > I bridge the gap between **data** and **product** — whether it's building predictive models, designing BI dashboards, or shipping full-stack web apps. Every project I build solves a **real problem** with measurable impact.
 
----
 
-## 🎯 What I Bring to Your Team
-
-<table>
-<tr>
-<td width="50%">
-
-**📊 Data Analytics**
-- Advanced SQL, EDA, statistical analysis
-- KPI dashboards in Tableau & Power BI
-- Business storytelling from complex data
-
-**🤖 Machine Learning**
-- Predictive modeling, classification, NLP
-- Deep learning with TensorFlow & PyTorch
-- Model deployment via Flask, FastAPI, HuggingFace
-
-</td>
-<td width="50%">
-
-**🌐 Full Stack Development**
-- React, Node.js, Flask, Django apps
-- REST API design and integration
-- Responsive, production-ready UIs
-
-**☁️ Cloud & Data Engineering**
-- AWS, GCP, Azure pipelines
-- Docker, Kubernetes, CI/CD
-- Apache Spark, big data workflows
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🚀 Featured Projects
 
