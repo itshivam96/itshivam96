@@ -9,7 +9,7 @@
 
   <!-- 💻 Typing Animation -->
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=FF5733&center=true&vCenter=true&width=800&lines=Turning+Raw+Data+into+Business+Insights;Building+Production-Ready+ML+Models;Crafting+Scalable+Full-Stack+Apps;Open+to+Data+Analyst+%2F+Dev+Roles!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=Turning+Raw+Data+into+Business+Insights;Building+Production-Ready+ML+Models;Crafting+Scalable+Full-Stack+Apps;Open+to+Data+Analyst+%2F+Dev+Roles!" />
 </p>
 
 <br/>
@@ -23,25 +23,14 @@
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
-
-
-
 ## ⚙️ Technical Skills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,r,cpp,react,html,css,flask,nodejs,mysql,mongodb,git,github,figma,aws,azure,vscode&perline=9&theme=light" />
 </div>
 
-<br/>
-
-> I bridge the gap between **data** and **product** — whether it's building predictive models, designing BI dashboards, or shipping full-stack web apps. Every project I build solves a **real problem** with measurable impact.
-
-
-
 ## 🚀 Featured Projects
-
----
-
+> Live Projets...
 ### 🏥 1. Medical Cost Predictor
 > **ML regression model predicting health insurance charges with 87% accuracy**
 
@@ -256,15 +245,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
-## 🌐 Skill Icons
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn,flask,django,react,nodejs,js,html,css,mysql,mongodb,postgres,docker,aws,azure,gcp,git,figma&perline=11" />
-</div>
-
----
 
 ## 🧾 Certifications
 
@@ -331,9 +312,6 @@
 
 
 
-
----
-
 ## 🎯 What I Bring to Your Team
 
 | Skill Area | What I Do |
@@ -344,15 +322,6 @@
 | 📈 **Data Visualization** | Tableau, Power BI, Matplotlib, Seaborn, Plotly |
 | ☁️ **Cloud & DevOps** | AWS, GCP, Azure, Docker, Git CI/CD pipelines |
 
----
-
-
-
-## 📬 Let's Connect
-
-
-
----
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=Thanks%20for%20visiting!%20⭐%20Star%20my%20repos%20if%20you%20find%20them%20useful&fontSize=16&fontColor=aad4f5&fontAlignY=65&animation=twinkling"/>
