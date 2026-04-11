@@ -14,6 +14,8 @@
 
 <br/>
 
+> 📌 **B.Tech CSE (Data Science)** graduate who bridges the gap between **raw data** and **real business impact**. I build end-to-end solutions — from scraping and cleaning data to deploying ML models and crafting dashboards that actually get used.
+<br/>
 <!-- SOCIAL BADGES -->
 <a href="https://www.linkedin.com/in/itshivam96"><img src="https://img.shields.io/badge/LinkedIn-Shivam%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://shivamk-eta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live%20Now-00D4FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -30,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=python,java,js,r,cpp,react,html,css,flask,nodejs,mysql,mongodb,git,github,figma,aws,azure,vscode&perline=9&theme=light" />
 </div>
 
-
+<br/>
 
 > I bridge the gap between **data** and **product** — whether it's building predictive models, designing BI dashboards, or shipping full-stack web apps. Every project I build solves a **real problem** with measurable impact.
 
@@ -307,18 +309,19 @@
 ## 🌐 **Let's Connect** <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXY0NjFheGU5NjN5M2YxemZrb3JuMXYwanFzaDUxNmo0bTVreDBjNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JEZ3wy3IUQR8s/giphy.gif" width="50">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/itshivam96" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/itshivam96" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
 
----
+> **"I turn data into decisions, and code into experiences."**
+> If you're hiring or want to collaborate — let's talk!
+
+<br/>
+
+<a href="https://www.linkedin.com/in/itshivam96"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="https://shivamk-eta.vercel.app/"><img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
 
 ## 📊 Visitor Tracker
 
@@ -327,7 +330,7 @@
 </div>
 
 
-> 📌 **B.Tech CSE (Data Science)** graduate who bridges the gap between **raw data** and **real business impact**. I build end-to-end solutions — from scraping and cleaning data to deploying ML models and crafting dashboards that actually get used.
+
 
 ---
 
@@ -347,24 +350,7 @@
 
 ## 📬 Let's Connect
 
-<div align="center">
 
-> **"I turn data into decisions, and code into experiences."**
-> If you're hiring or want to collaborate — let's talk!
-
-<br/>
-
-<a href="https://www.linkedin.com/in/itshivam96"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-&nbsp;
-<a href="https://shivamk-eta.vercel.app/"><img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-&nbsp;
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://profile-counter.glitch.me/itshivam96/count.svg" />
-
-</div>
 
 ---
 
