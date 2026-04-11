@@ -5,11 +5,12 @@
 <!-- ANIMATED HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shivam%20Kumar&fontSize=65&fontColor=fff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Full%20Stack%20Developer%20%7C%20ML%20Engineer&descSize=20&descAlignY=58&descColor=aad4f5&animation=twinkling" />
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=📊+Turning+Raw+Data+into+Business+Insights;🤖+Building+Production-Ready+ML+Models;🌐+Crafting+Scalable+Full-Stack+Apps;🚀+Open+to+Data+Analyst+%2F+Dev+Roles!" alt="Typing SVG" />
+
 
   <!-- 💻 Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shivam+Kumar+%F0%9F%91%8B;Web+Developer+%F0%9F%92%AB;Data+Analyst+%E2%9A%94%EF%B8%8F;Digital+Storyteller+%F0%9F%93%9A" alt="Typing Animation" />
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=FF5733&center=true&vCenter=true&width=800&lines=Turning+Raw+Data+into+Business+Insights;Building+Production-Ready+ML+Models;Crafting+Scalable+Full-Stack+Apps;Open+to+Data+Analyst+%2F+Dev+Roles!" />
+</p>
 
 <br/>
 
