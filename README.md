@@ -1,6 +1,6 @@
 
 
-<div align="center">
+<div>
 
 <!-- ANIMATED HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shivam%20Kumar&fontSize=65&fontColor=fff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Full%20Stack%20Developer%20%7C%20ML%20Engineer&descSize=20&descAlignY=58&descColor=aad4f5&animation=twinkling" />
