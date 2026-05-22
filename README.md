@@ -35,7 +35,7 @@
 > **Built a CRUD-based enterprise web application for employee record management using Java, Spring Boot, Hibernate and MySQL**
 
 <a href="https://github.com/itshivam96/employee-management-system">
-<img src="[https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=900&q=85&auto=format&fit=crop](https://github.com/itshivam96/employee-management-system/blob/master/Screenshots/img-2.png?raw=true)" width="100%" style="border-radius:8px"/>
+<img src="https://github.com/itshivam96/employee-management-system/blob/master/Screenshots/img-1.png?raw=true" width="100%" style="border-radius:8px"/>
 </a>
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/itshivam96/employee-management-system)
