@@ -214,7 +214,7 @@
 > **Personal portfolio with Three.js 3D animations — deployed live on Vercel**
 
 <a href="https://shivamk-eta.vercel.app/">
-<img src="https://images.unsplash.com/photo-1555066931-4365d14431b9?w=900&q=85&auto=format&fit=crop" width="100%" style="border-radius:8px"/>
+<img src="https://shivamk-eta.vercel.app/3d_portfolio.png" width="100%" style="border-radius:8px"/>
 </a>
 
 [![Live Site](https://img.shields.io/badge/🌐_Live_Site-Visit_Now-00D4FF?style=for-the-badge)](https://shivamk-eta.vercel.app/)
