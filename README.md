@@ -216,6 +216,11 @@
 <a href="https://shivamk-eta.vercel.app/">
 <img src="https://shivamk-eta.vercel.app/3d_portfolio.png" width="100%" style="border-radius:8px"/>
 </a>
+<div align="center">
+
+### **[🔗 Live Demo](https://shivamk-eta.vercel.app/)**
+
+</div>
 
 [![Live Site](https://img.shields.io/badge/🌐_Live_Site-Visit_Now-00D4FF?style=for-the-badge)](https://shivamk-eta.vercel.app/)
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/itshivam96/My-Portfolio)
@@ -237,6 +242,11 @@
 <a href="https://mdu-epapers.vercel.app/">
 <img src="https://shivamk-eta.vercel.app/MDUePapers.png" width="100%" style="border-radius:8px"/>
 </a>
+<div align="center">
+
+### **[🔗 Live Demo](https://mdu-epapers.vercel.app/)**
+
+</div>
 
 [![Live Site](https://img.shields.io/badge/🌐_Live_Site-Visit_Now-00D4FF?style=for-the-badge)](https://mdu-epapers.vercel.app/)
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/itshivam96/MDUePapers-Website)
