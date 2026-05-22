@@ -102,7 +102,7 @@
 > **CNN model diagnosing pneumonia from chest X-rays with 94.3% accuracy**
 
 <a href="https://github.com/itshivam96/pneumonia-detection-1">
-<img src="https://images.unsplash.com/photo-1530497610245-94d3c16cda28?w=900&q=85&auto=format&fit=crop" width="100%" style="border-radius:8px"/>
+<img src="https://github.com/itshivam96/pneumonia-detection-1/blob/master/app/static/Pneumonia_detection.png?raw=true" width="100%" style="border-radius:8px"/>
 </a>
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/itshivam96/pneumonia-detection-1)
