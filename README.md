@@ -31,29 +31,54 @@
 
 ## 🚀 Featured Projects
 > Live Projets...
-### 🏥 1. Medical Cost Predictor
-> **ML regression model predicting health insurance charges with 87% accuracy**
+### 🏥 1. ✨ Enterprise-level Employee Management System
+> **Built a CRUD-based enterprise web application for employee record management using Java, Spring Boot, Hibernate and MySQL**
 
-<a href="https://github.com/itshivam96/medical-cost-predictor">
-<img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=900&q=85&auto=format&fit=crop" width="100%" style="border-radius:8px"/>
+<a href="https://github.com/itshivam96/employee-management-system">
+<img src="[https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=900&q=85&auto=format&fit=crop](https://github.com/itshivam96/employee-management-system/blob/master/Screenshots/img-2.png?raw=true)" width="100%" style="border-radius:8px"/>
 </a>
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/itshivam96/medical-cost-predictor)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/itshivam96/employee-management-system)
 
-- 🎯 Compared Linear Regression, Random Forest & **XGBoost** — best model achieved **R² = 0.87**
-- 📦 Trained on 1,300+ patient records with 10+ engineered features
-- 🌐 Deployed as a **Flask web app** with a clean prediction form interface
-- 📈 Outperformed baseline model by **34%** through feature engineering
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Stack:** `Python` · `Pandas` · `Scikit-learn` · `XGBoost` · `Flask` · `Matplotlib`
+- 🚀 Built an **Enterprise-level Employee Management System** using **Java, Spring Boot, Hibernate & MySQL**
+- 🔐 Implemented secure **CRUD operations**, layered architecture, and RESTful APIs for efficient employee data management
+- 🏗️ Designed using **MVC architecture** with scalable backend structure and clean code practices
+- ⚡ Integrated **Hibernate ORM** for optimized database handling and seamless entity mapping
+- 🌐 Developed responsive modules for employee records, updates, deletion, and database connectivity
+
+**Stack:** `Java` · `Spring Boot` · `Hibernate` · `MySQL` · `REST API` · `MVC Architecture`
 
 ---
+---
 
-### 📉 2. Customer Churn Prediction
+### 📦 2. E-Commerce Product Analysis
+> **End-to-end analytics pipeline with automated Power BI dashboard**
+
+<a href="https://github.com/itshivam96/E-Commerce-Product-Analysis">
+<img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=85&auto=format&fit=crop" width="100%" style="border-radius:8px"/>
+</a>
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/itshivam96/E-Commerce-Product-Analysis)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+- 🔄 Automated ETL: scraping → cleaning → analysis → live dashboard
+- 📊 Power BI report tracking **revenue, conversion rates & return rates**
+- 🔍 SQL analysis to identify underperforming SKUs & seasonal trends
+- ⚡ Reduced manual reporting time by **70%** through full automation
+
+**Stack:** `Python` · `SQL` · `Power BI` · `Pandas` · `BeautifulSoup`
+
+---
+---
+
+### 📉 3. Customer Churn Prediction
 > **Predict which customers are about to leave — before they do**
 
 <a href="https://github.com/itshivam96/Costumer-Churn-Prediction">
@@ -73,28 +98,6 @@
 **Stack:** `Python` · `TensorFlow` · `Keras` · `SHAP` · `Scikit-learn` · `Seaborn`
 
 ---
-
-### 🛒 3. Customer Shopping Behaviour Analysis
-> **Full EDA + Tableau storytelling on 99,000+ e-commerce transactions**
-
-<a href="https://github.com/itshivam96/CUSTOMER-SHOPPING-BEHAVIOUR-ANALYSIS">
-<img src="https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=900&q=85&auto=format&fit=crop" width="100%" style="border-radius:8px"/>
-</a>
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/itshivam96/CUSTOMER-SHOPPING-BEHAVIOUR-ANALYSIS)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-- 📦 Deep-dive EDA on **99,000+ transactions** across demographics, categories & time
-- 📊 Built **interactive Tableau dashboards** — purchase trends, peak hours, basket sizes
-- 💡 Identified key segment: **age 25–34 + electronics/clothing = 62% of revenue**
-- 🎯 Delivered 5 actionable, data-backed marketing recommendations
-
-**Stack:** `Python` · `Pandas` · `Seaborn` · `Matplotlib` · `Tableau` · `SQL`
-
----
-
 ### 🫁 4. Pneumonia Detection — Deep Learning
 > **CNN model diagnosing pneumonia from chest X-rays with 94.3% accuracy**
 
@@ -116,28 +119,74 @@
 
 ---
 
-### 📦 5. E-Commerce Product Analysis
-> **End-to-end analytics pipeline with automated Power BI dashboard**
+### 🛒 5. Customer Shopping Behaviour Analysis
+> **Full EDA + Tableau storytelling on 99,000+ e-commerce transactions**
 
-<a href="https://github.com/itshivam96/E-Commerce-Product-Analysis">
-<img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=85&auto=format&fit=crop" width="100%" style="border-radius:8px"/>
+<a href="https://github.com/itshivam96/CUSTOMER-SHOPPING-BEHAVIOUR-ANALYSIS">
+<img src="https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=900&q=85&auto=format&fit=crop" width="100%" style="border-radius:8px"/>
 </a>
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/itshivam96/E-Commerce-Product-Analysis)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/itshivam96/CUSTOMER-SHOPPING-BEHAVIOUR-ANALYSIS)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-- 🔄 Automated ETL: scraping → cleaning → analysis → live dashboard
-- 📊 Power BI report tracking **revenue, conversion rates & return rates**
-- 🔍 SQL analysis to identify underperforming SKUs & seasonal trends
-- ⚡ Reduced manual reporting time by **70%** through full automation
+- 📦 Deep-dive EDA on **99,000+ transactions** across demographics, categories & time
+- 📊 Built **interactive Tableau dashboards** — purchase trends, peak hours, basket sizes
+- 💡 Identified key segment: **age 25–34 + electronics/clothing = 62% of revenue**
+- 🎯 Delivered 5 actionable, data-backed marketing recommendations
 
-**Stack:** `Python` · `SQL` · `Power BI` · `Pandas` · `BeautifulSoup`
+**Stack:** `Python` · `Pandas` · `Seaborn` · `Matplotlib` · `Tableau` · `SQL`
+
+---
+### 🫁 6. EmpireX-Gaming-Platform — Flask and PostgreSQL
+> **EmpireX — March of Empires is a medieval MMO strategy game where players build kingdoms, train armies, and battle for dominance**
+
+<a href="https://github.com/itshivam96/EmpireX-Gaming-Platform">
+<img src="https://github.com/itshivam96/EmpireX-Gaming-Platform/blob/master/img1.png?raw=true" width="100%" style="border-radius:8px"/>
+</a>
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-46a049?style=flat-square&logo=render&logoColor=white)](https://empirex-sk.onrender.com/)
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+- ⚔️ Developed **EmpireX — March of Empires**, a medieval MMO strategy game with kingdom-building and real-time warfare
+- 🏰 Designed multiplayer gameplay featuring alliances, army training, resource management, and strategic battles
+- 🌐 Built using **Flask** with **PostgreSQL** backend for scalable game data and player management
+- 🚀 Deployed on **Render** with optimized backend performance and smooth online accessibility
+- 🎮 Created an immersive fantasy war experience with interactive gameplay mechanics and persistent progression systems
+
+**Stack:** `Python` · `Flask` · `PostgreSQL` · `Render` · `Multiplayer Game Logic` · `REST APIs`
 
 ---
 
-### 🎬 6. Movie Recommendation System
+### 🏥 7. Medical Cost Predictor
+> **ML regression model predicting health insurance charges with 87% accuracy**
+
+<a href="https://github.com/itshivam96/medical-cost-predictor">
+<img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=900&q=85&auto=format&fit=crop" width="100%" style="border-radius:8px"/>
+</a>
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/itshivam96/medical-cost-predictor)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
+
+- 🎯 Compared Linear Regression, Random Forest & **XGBoost** — best model achieved **R² = 0.87**
+- 📦 Trained on 1,300+ patient records with 10+ engineered features
+- 🌐 Deployed as a **Flask web app** with a clean prediction form interface
+- 📈 Outperformed baseline model by **34%** through feature engineering
+
+**Stack:** `Python` · `Pandas` · `Scikit-learn` · `XGBoost` · `Flask` · `Matplotlib`
+
+
+---
+
+
+### 🎬 8. Movie Recommendation System
 > **Hybrid collaborative + content-based recommender on 45,000+ movies**
 
 <a href="https://github.com/itshivam96/Movie-Recommendation-System">
@@ -157,7 +206,7 @@
 
 ---
 
-### ✨ 7. Cyber Portfolio — 3D Interactive
+### ✨ 9. Cyber Portfolio — 3D Interactive
 > **Personal portfolio with Three.js 3D animations — deployed live on Vercel**
 
 <a href="https://shivamk-eta.vercel.app/">
@@ -178,7 +227,7 @@
 
 ---
 
-### 📚 8. MDU ePapers — University Portal
+### 📚 10. MDU ePapers — University Portal
 > **Live portal actively used by 1,000+ students for exam preparation**
 
 <a href="https://mdu-epapers.vercel.app/">
