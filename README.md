@@ -82,7 +82,7 @@
 > **Predict which customers are about to leave — before they do**
 
 <a href="https://github.com/itshivam96/Costumer-Churn-Prediction">
-<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=85&auto=format&fit=crop" width="100%" style="border-radius:8px"/>
+<img src="https://github.com/itshivam96/Costumer-Churn-Prediction/blob/master/Churn_Dashboard.png?raw=true" width="100%" style="border-radius:8px"/>
 </a>
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/itshivam96/Costumer-Churn-Prediction)
@@ -146,7 +146,11 @@
 <img src="https://github.com/itshivam96/EmpireX-Gaming-Platform/blob/master/img1.png?raw=true" width="100%" style="border-radius:8px"/>
 </a>
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-46a049?style=flat-square&logo=render&logoColor=white)](https://empirex-sk.onrender.com/)
+<div align="center">
+
+### **[🔗 Live Demo](https://empirex-sk.onrender.com/)**
+
+</div>
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
