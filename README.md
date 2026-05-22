@@ -60,7 +60,7 @@
 > **End-to-end analytics pipeline with automated Power BI dashboard**
 
 <a href="https://github.com/itshivam96/E-Commerce-Product-Analysis">
-<img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=85&auto=format&fit=crop" width="100%" style="border-radius:8px"/>
+<img src="https://github.com/itshivam96/E-Commerce-Product-Analysis/blob/master/Screenshots/img-3.png?raw=true" width="100%" style="border-radius:8px"/>
 </a>
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/itshivam96/E-Commerce-Product-Analysis)
