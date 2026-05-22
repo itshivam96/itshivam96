@@ -235,7 +235,7 @@
 > **Live portal actively used by 1,000+ students for exam preparation**
 
 <a href="https://mdu-epapers.vercel.app/">
-<img src="https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=900&q=85&auto=format&fit=crop" width="100%" style="border-radius:8px"/>
+<img src="https://shivamk-eta.vercel.app/MDUePapers.png" width="100%" style="border-radius:8px"/>
 </a>
 
 [![Live Site](https://img.shields.io/badge/🌐_Live_Site-Visit_Now-00D4FF?style=for-the-badge)](https://mdu-epapers.vercel.app/)
