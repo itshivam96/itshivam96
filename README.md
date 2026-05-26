@@ -37,6 +37,11 @@
 <a href="https://github.com/itshivam96/employee-management-system">
 <img src="https://github.com/itshivam96/employee-management-system/blob/master/Screenshots/img-1.png?raw=true" width="100%" style="border-radius:8px"/>
 </a>
+<div align="center">
+
+### **[🔗 Live Demo](https://itshivam96.github.io/employee-management-system/)**
+
+</div>
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/itshivam96/employee-management-system)
 
